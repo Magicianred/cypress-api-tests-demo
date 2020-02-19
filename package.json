@@ -1,0 +1,14 @@
+{
+  "name": "cypress-api-tests-demo",
+  "version": "1.0.0",
+  "description": "Sample project for Cypress.io API tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giridhar Rajkumar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  }
+}
